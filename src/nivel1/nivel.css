@@ -1,0 +1,136 @@
+
+.Selena{
+
+    width: 300px;
+  
+    height: 300px;
+  
+    background-size: 100% 100%;
+  
+  }
+  
+  @keyframes boom{
+  
+    0%{
+  
+      transform: translateX(30px);
+  
+    }
+  
+    20%{
+  
+      transform: translateY(50px);
+  
+    }
+  
+    35%{
+  
+      transform: translateX(-60px);
+  
+    }
+  
+    46%{
+  
+      transform: translateY(-37px);
+  
+    }
+  
+    57%{
+  
+      transform: translateX(20px);
+  
+    }
+  
+    68%{
+  
+      transform: translateY(100px);
+  
+    }
+  
+    89%{
+  
+      transform: translateX(-100px);
+  
+    }
+  
+    100%{
+  
+      transform: translateY(-200px);
+  
+    }
+  
+  }
+  
+  .duro{
+  
+    animation-name: boom;
+  
+    animation-duration: 0.3s;
+  
+    animation-timing-function: linear;
+  
+    animation-iteration-count: infinite;
+  
+  }
+  
+  .superDuro{
+  
+    animation-name: boom;
+  
+    animation-duration: 0.1s;
+  
+    animation-timing-function: linear;
+  
+    animation-iteration-count: infinite;
+  
+  }
+  
+  .lugar{
+  
+    background-color: black;
+  
+    width: 600px;
+  
+    height: 600px;
+  
+    display: flex;
+  
+    justify-content: center;
+  
+    align-items: center;
+  
+    flex-direction: column;
+  
+    user-select: none;
+  
+  }
+  
+  .text{
+  
+    background-color: white;
+  
+    font-size: 2rem;
+  
+    padding: 20px;
+  
+    margin-top: 20px;
+  
+    cursor: pointer;
+  
+    user-select: none;
+  
+    border: 2px black solid;
+  
+    max-width: 900px;
+  
+  }
+  
+  .fin{
+  
+    color: white;
+  
+    font-size: 20rem;
+  
+    font-family: sans-serif;
+  
+  }

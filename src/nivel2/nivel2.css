@@ -1,0 +1,65 @@
+
+.nivel2{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.nivel2 .eyes{
+
+    background-color: black;
+
+    width: 100%;
+
+    height: 100%;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+
+    position: relative;
+
+}
+
+.nivel2 .eyes .open{
+
+    width: 100%;
+
+    background-color: white;
+
+}
+
+.nivel2 .eyes .click{
+
+    color: white;
+
+    border: 2px white solid;
+
+    padding: 20px;
+
+    user-select: none;
+
+    cursor: pointer;
+
+    transition: all 0.3s;
+
+    position: absolute;
+
+    z-index: 500;
+
+    background-color: black;
+
+}
+
+.nivel2 .eyes .click:active{
+
+    transition: all 0.3s;
+
+    transform: scale(0.6);
+
+}
