@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mastercorvo/Una-noche-con-Selena/static/css/main.656ae53e.chunk.css",
+    "main.js": "/Mastercorvo/Una-noche-con-Selena/static/js/main.e3b14396.chunk.js",
+    "main.js.map": "/Mastercorvo/Una-noche-con-Selena/static/js/main.e3b14396.chunk.js.map",
+    "runtime-main.js": "/Mastercorvo/Una-noche-con-Selena/static/js/runtime-main.a7efcbec.js",
+    "runtime-main.js.map": "/Mastercorvo/Una-noche-con-Selena/static/js/runtime-main.a7efcbec.js.map",
+    "static/js/2.738651d5.chunk.js": "/Mastercorvo/Una-noche-con-Selena/static/js/2.738651d5.chunk.js",
+    "static/js/2.738651d5.chunk.js.map": "/Mastercorvo/Una-noche-con-Selena/static/js/2.738651d5.chunk.js.map",
+    "index.html": "/Mastercorvo/Una-noche-con-Selena/index.html",
+    "static/css/main.656ae53e.chunk.css.map": "/Mastercorvo/Una-noche-con-Selena/static/css/main.656ae53e.chunk.css.map",
+    "static/js/2.738651d5.chunk.js.LICENSE.txt": "/Mastercorvo/Una-noche-con-Selena/static/js/2.738651d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7efcbec.js",
+    "static/js/2.738651d5.chunk.js",
+    "static/css/main.656ae53e.chunk.css",
+    "static/js/main.e3b14396.chunk.js"
+  ]
+}
