@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Una-noche-con-Selena/static/css/main.ac78deb7.chunk.css",
-    "main.js": "/Una-noche-con-Selena/static/js/main.0bacbbbb.chunk.js",
-    "main.js.map": "/Una-noche-con-Selena/static/js/main.0bacbbbb.chunk.js.map",
+    "main.js": "/Una-noche-con-Selena/static/js/main.3b5db34a.chunk.js",
+    "main.js.map": "/Una-noche-con-Selena/static/js/main.3b5db34a.chunk.js.map",
     "runtime-main.js": "/Una-noche-con-Selena/static/js/runtime-main.243d3ad8.js",
     "runtime-main.js.map": "/Una-noche-con-Selena/static/js/runtime-main.243d3ad8.js.map",
     "static/js/2.b059992d.chunk.js": "/Una-noche-con-Selena/static/js/2.b059992d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.243d3ad8.js",
     "static/js/2.b059992d.chunk.js",
     "static/css/main.ac78deb7.chunk.css",
-    "static/js/main.0bacbbbb.chunk.js"
+    "static/js/main.3b5db34a.chunk.js"
   ]
 }
