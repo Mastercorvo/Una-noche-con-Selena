@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Una-noche-con-Selena/static/css/main.656ae53e.chunk.css",
-    "main.js": "/Una-noche-con-Selena/static/js/main.e3b14396.chunk.js",
-    "main.js.map": "/Una-noche-con-Selena/static/js/main.e3b14396.chunk.js.map",
+    "main.css": "/Una-noche-con-Selena/static/css/main.ac78deb7.chunk.css",
+    "main.js": "/Una-noche-con-Selena/static/js/main.0bacbbbb.chunk.js",
+    "main.js.map": "/Una-noche-con-Selena/static/js/main.0bacbbbb.chunk.js.map",
     "runtime-main.js": "/Una-noche-con-Selena/static/js/runtime-main.243d3ad8.js",
     "runtime-main.js.map": "/Una-noche-con-Selena/static/js/runtime-main.243d3ad8.js.map",
-    "static/js/2.738651d5.chunk.js": "/Una-noche-con-Selena/static/js/2.738651d5.chunk.js",
-    "static/js/2.738651d5.chunk.js.map": "/Una-noche-con-Selena/static/js/2.738651d5.chunk.js.map",
+    "static/js/2.b059992d.chunk.js": "/Una-noche-con-Selena/static/js/2.b059992d.chunk.js",
+    "static/js/2.b059992d.chunk.js.map": "/Una-noche-con-Selena/static/js/2.b059992d.chunk.js.map",
     "index.html": "/Una-noche-con-Selena/index.html",
-    "static/css/main.656ae53e.chunk.css.map": "/Una-noche-con-Selena/static/css/main.656ae53e.chunk.css.map",
-    "static/js/2.738651d5.chunk.js.LICENSE.txt": "/Una-noche-con-Selena/static/js/2.738651d5.chunk.js.LICENSE.txt"
+    "static/css/main.ac78deb7.chunk.css.map": "/Una-noche-con-Selena/static/css/main.ac78deb7.chunk.css.map",
+    "static/js/2.b059992d.chunk.js.LICENSE.txt": "/Una-noche-con-Selena/static/js/2.b059992d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.243d3ad8.js",
-    "static/js/2.738651d5.chunk.js",
-    "static/css/main.656ae53e.chunk.css",
-    "static/js/main.e3b14396.chunk.js"
+    "static/js/2.b059992d.chunk.js",
+    "static/css/main.ac78deb7.chunk.css",
+    "static/js/main.0bacbbbb.chunk.js"
   ]
 }
