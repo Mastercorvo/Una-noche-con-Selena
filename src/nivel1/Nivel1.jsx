@@ -95,11 +95,25 @@ function Nivel1() {
     }
 
   }
+  
+  const musicElement = useRef(undefined);
 
   return (
     <div className="nivel1">
 
-    <ReactPlayer width={0} height={0} url='https://soundcloud.com/slionhartx/devil-trigger' playing={play} loop={true}/>
+    <ReactPlayer width={0} height={0} url='https://soundcloud.com/slionhartx/devil-trigger' playing={play} 
+    
+    onEnded={()=>{
+
+      if(musicElement.musicElement) musicElement.musicElement.seekTo(0,0);
+
+      setPlay(false);
+
+      setTimeout(()=>setPlay(true),1);
+
+    }}
+
+    ref={musicElement}/>
 
       <div className={"lugar " + boom} style={{backgroundImage:color}}>
 

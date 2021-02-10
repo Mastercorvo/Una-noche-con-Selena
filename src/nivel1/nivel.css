@@ -1,4 +1,16 @@
 
+.nivel1{
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  flex-direction: column;
+
+}
+
 .Selena{
 
     width: 300px;
@@ -102,26 +114,6 @@
     flex-direction: column;
   
     user-select: none;
-  
-  }
-  
-  .text{
-  
-    background-color: white;
-  
-    font-size: 2rem;
-  
-    padding: 20px;
-  
-    margin-top: 20px;
-  
-    cursor: pointer;
-  
-    user-select: none;
-  
-    border: 2px black solid;
-  
-    max-width: 900px;
   
   }
   
